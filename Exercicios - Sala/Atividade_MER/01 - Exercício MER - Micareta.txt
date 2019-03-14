@@ -1,0 +1,5 @@
+﻿O Governo do Estado do Ceará resolve criar um banco de dados para armazenar e tratar os dados das micaretas (carnavais fora de época) que acontecem durante o ano nas diversas cidades do Estado.
+Uma micareta possui código inteiro único, nome, cidade onde acontecerá, e o ano. Cada micareta é obrigatoriamente organizada por uma instituição organizadora devidamente registrada que possui código único, nome, endereço e diversos 
+telefones. Esta instituição pode organizar várias micaretas. Cada micareta possui uma única instituição organizadora.
+Cada micareta pode ter diversos blocos e um bloco pode participar de diferentes micaretas. Um bloco tem nome, que é único, além de data da fundação, número limite de participantes e valor do abadá.
+Um bloco em uma micareta pode receber diversos participantes. Cada participante pode participar de diversos blocos em diferentes micaretas. O sistema requer RG, nome, sexo e data de nascimento de cada participante.
