@@ -1,0 +1,55 @@
+-- Os nomes dos filmes alugados pelo cliente de nome “Zé” ontem			
+SELECT f.nome_filme FROM Filme f, Locacao l, Cliente c
+	WHERE f.codigo = l.codigo_filme 
+		AND l.cpf_cliente = c.cpf 
+			AND c.nome = 'Zé' 
+				AND l.data_locacao = '2019-04-25'
+				
+-- Os nomes dos clientes que alugaram filmes hoje
+SELECT c.nome FROM Cliente c, Locacao l
+	WHERE c.cpf = l.cpf_cliente 
+		AND l.data_locacao = '2019-04-26'
+
+-- O valor da locação do filme “Vingadores 4 - Ultimato”.
+SELECT t.valor FROM Filme f
+	INNER JOIN Tipo t ON f.id_tipo = t.id
+		WHERE f.nome_filme = 'Vingadores 4 - Ultimato'
+
+-- Liste o nome dos clientes que locaram o filme ‘Cine Holiudy 2 - A chibata sideral’ em ordem decrescente.
+SELECT c.nome FROM Cliente c, Locacao l, Filme f
+	WHERE f.codigo = l.codigo_filme 
+		AND l.cpf_cliente = c.cpf 
+			AND f.nome_filme = 'Cine Holiudy 2 - A chibata sideral'
+				ORDER BY c.nome DESC 
+
+-- Liste o nome de todos os filmes e ordene pelo valor de locação dos filmes em ordem crescente
+SELECT f.nome_filme FROM Filme f
+	INNER JOIN Tipo t ON f.id_tipo = t.id
+		ORDER BY t.valor ASC
+
+-- Para cada tipo de filme conte a quantidade de filmes existentes na base.
+SELECT f.id_tipo, COUNT(*) FROM Filme f
+	GROUP BY f.id_tipo
+
+-- Para cada cliente conte quantos filmes ele alugou.
+SELECT c.nome, COUNT(*) AS qtd_filmes_alugados FROM Cliente c
+	INNER JOIN Locacao l ON c.cpf = l.cpf_cliente
+		GROUP BY c.nome
+		
+-- Para cada filme conte a quantidade de locações feitas.		
+SELECT l.codigo_filme, COUNT(*) AS qnt_locacoes FROM Cliente c
+	INNER JOIN Locacao l ON c.cpf = l.cpf_cliente
+		GROUP BY l.codigo_filme
+
+-- Liste os clientes que devolveram os filmes.
+SELECT c.nome, c.cpf FROM Cliente c
+	INNER JOIN Locacao l ON c.cpf = l.cpf_cliente 
+		WHERE l.data_devolucao IS NOT NULL
+
+-- Liste os clientes que não devolveram os filmes.
+SELECT c.nome, c.cpf FROM Cliente c
+	INNER JOIN Locacao l ON c.cpf = l.cpf_cliente 
+		WHERE l.data_devolucao IS NULL
+		
+-- Liste a média do valor de locação.
+SELECT AVG(valor) FROM Tipo
