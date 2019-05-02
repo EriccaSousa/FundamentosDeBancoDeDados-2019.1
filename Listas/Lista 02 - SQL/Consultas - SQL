@@ -1,4 +1,4 @@
--- Os nomes dos filmes alugados pelo cliente de nome “Zé” ontem			
+﻿-- Os nomes dos filmes alugados pelo cliente de nome “Zé” ontem			
 SELECT f.nome_filme FROM Filme f, Locacao l, Cliente c
 	WHERE f.codigo = l.codigo_filme 
 		AND l.cpf_cliente = c.cpf 
@@ -53,3 +53,8 @@ SELECT c.nome, c.cpf FROM Cliente c
 		
 -- Liste a média do valor de locação.
 SELECT AVG(valor) FROM Tipo
+
+-- Liste o filme com menor valor de locação .
+Select t.valor,f.nome_filme from tipo t,filme f 
+	where t.id = f.id_tipo 
+		and t.valor in(Select min(t.valor) from tipo t, filme f where f.i
