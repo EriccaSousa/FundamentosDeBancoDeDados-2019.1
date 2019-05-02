@@ -53,3 +53,8 @@ SELECT c.nome, c.cpf FROM Cliente c
 		
 -- Liste a média do valor de locação.
 SELECT AVG(valor) FROM Tipo
+
+-- Liste o filme com menor valor de locação .
+Select t.valor,f.nome_filme from tipo t,filme f 
+	where t.id = f.id_tipo 
+		and t.valor in(Select min(t.valor) from tipo t, filme f where f.id_tipo = t.id)
