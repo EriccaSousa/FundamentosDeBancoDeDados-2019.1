@@ -1,0 +1,43 @@
+--  Recupere a média de salário dos professores de cada departamento. Apresente o nome do departamento e a média salarial.								   
+SELECT dep.nome_depto, AVG(p.salario) FROM Departamento dep
+	INNER JOIN  Professor p  ON dep.numero_depto = p.cod_depto	
+		GROUP BY dep.nome_depto	
+								   
+-- Recupere os professores que nunca ministraram a disciplina de código 1 (Utilize IN/NOT IN).
+SELECT * FROM Professor p1 
+	WHERE p1.siape NOT IN (
+		SELECT DISTINCT(p.siape) FROM Professor p, Ministra m 
+			WHERE p.siape = m.siape	
+				AND m.cod_disciplina = 1)				   
+
+--  Recupere o nome dos professores e o nome do departamento de todos os professores que não ministraram disciplinas em 2013.1. (Utilize os operadores EXISTS ou NOT EXISTS)							
+SELECT p.nome, dep.nome_depto FROM Professor p, Departamento dep
+	WHERE p.cod_depto = dep.numero_depto
+		AND NOT EXISTS (
+			SELECT * FROM Ministra m 
+				WHERE p.siape = m.siape 
+					AND m.periodo = '2013.1')							   
+								 
+--  Para cada professor, obtenha o nome e a a quantidade de disciplinas ministradas por ele
+SELECT p.nome, COUNT(*) AS disciplinas_ministradas FROM professor p, ministra m
+	WHERE p.siape = m.siape
+		GROUP BY p.nome		
+	
+-- Apresente os dados do professor (inclusive o nome do seu departamento) que ministrou o maior número de disciplinas (Utilize o operador ALL).
+CREATE VIEW Qtd_Disciplinas_Por_Prof(Nome, Nome_Depto, qtd_Disciplinas_Ministradas) AS	
+	SELECT P.nome, dep.nome_depto, COUNT(p.nome) AS qtd_Disciplinas_Ministradas FROM Professor p
+		INNER JOIN Ministra m ON p.siape = m.siape
+			INNER JOIN Departamento dep ON dep.numero_depto = p.cod_depto 
+				GROUP BY p.nome, dep.nome_depto		
+SELECT * FROM Professor p, Qtd_Disciplinas_Por_Prof qtd
+	WHERE p.nome = qtd.nome 
+		AND qtd.qtd_Disciplinas_Ministradas >= ALL (SELECT qtd.qtd_Disciplinas_Ministradas FROM Qtd_Disciplinas_Por_Prof qtd)
+
+-- Obtenha para cada professor, seu nome e a carga horária ministrada por semestre.
+CREATE VIEW Carga_Horaria (Nome, Carga_Horaria, Periodo) AS
+	SELECT P.nome, d.carga_horaria, m.periodo, COUNT(m.periodo) AS Turmas FROM Professor p
+		INNER JOIN Ministra m ON p.siape = m.siape
+			INNER JOIN Disciplina d ON d.cod_disciplina = m.cod_disciplina
+				GROUP BY  p.nome, d.carga_horaria, m.periodo
+SELECT c.nome, c.periodo, (c.carga_horaria * c.turmas) AS total_CargaHoraria FROM Carga_Horaria c
+	ORDER BY c.periodo ASC
