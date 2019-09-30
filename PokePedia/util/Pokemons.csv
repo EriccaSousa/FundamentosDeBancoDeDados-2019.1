@@ -1,0 +1,802 @@
+1,Bulbasaur,Grass,Seed,0.7,6.9,1
+2,Ivysaur,Grass,Seed,1.0,13.0,1
+3,Venusaur,Grass,Seed,2.0,100.0,1
+4,Charmander,Fire,Lizard,0.6,8.5,1
+5,Charmeleon,Fire,Flame,1.1,19.0,1
+6,Charizard,Fire,Flame,1.7,90.5,1
+7,Squirtle,Water,Tiny Turtle,0.5,9.0,1
+8,Wartortle,Water,Turtle,1.0,22.5,1
+9,Blastoise,Water,Shellfish,1.6,85.5,1
+10,Caterpie,Bug,Worm,0.3,2.9,1
+11,Metapod,Bug,Cocoon,0.7,9.9,1
+12,Butterfree,Bug,Butterfly,1.1,32.0,1
+13,Weedle,Bug,Hairy,0.3,3.2,1
+14,Kakuna,Bug,Cocoon,0.6,10.0,1
+15,Beedrill,Bug,Poison Bee,1.0,29.5,1
+16,Pidgey,Normal,Tiny Bird,0.3,1.8,1
+17,Pidgeotto,Normal,Bird,1.1,30.0,1
+18,Pidgeot,Normal,Bird,1.5,39.5,1
+19,Rattata,Normal,Mouse,0.3,3.5,1
+20,Raticate,Normal,Mouse,0.7,18.5,1
+21,Spearow,Normal,Tiny Bird,0.3,2.0,1
+22,Fearow,Normal,Beak,1.2,38.0,1
+23,Ekans,Poison,Snake,2.0,6.9,1
+24,Arbok,Poison,Cobra,3.5,65.0,1
+25,Pikachu,Electric,Mouse,0.4,6.0,1
+26,Raichu,Electric,Mouse,0.8,30.0,1
+27,Sandshrew,Ground,Mouse,0.6,12.0,1
+28,Sandslash,Ground,Mouse,1.0,29.5,1
+29,Nidoran?,Poison,Poison Pin,0.4,7.0,1
+30,Nidorina,Poison,Poison Pin,0.8,20.0,1
+31,Nidoqueen,Poison,Drill,1.3,60.0,1
+32,Nidoran?,Poison,Poison Pin,0.5,9.0,1
+33,Nidorino,Poison,Poison Pin,0.9,19.5,1
+34,Nidoking,Poison,Drill,1.4,62.0,1
+35,Clefairy,Fairy,Fairy,0.6,7.5,1
+36,Clefable,Fairy,Fairy,1.3,40.0,1
+37,Vulpix,Fire,Fox,0.6,9.9,1
+38,Ninetales,Fire,Fox,1.1,19.9,1
+39,Jigglypuff,Normal,Balloon,0.5,5.5,1
+40,Wigglytuff,Normal,Balloon,1.0,12.0,1
+41,Zubat,Poison,Bat,0.8,7.5,1
+42,Golbat,Poison,Bat,1.6,55.0,1
+43,Oddish,Grass,Weed,0.5,5.4,1
+44,Gloom,Grass,Weed,0.8,8.6,1
+45,Vileplume,Grass,Flower,1.2,18.6,1
+46,Paras,Bug,Mushroom,0.3,5.4,1
+47,Parasect,Bug,Mushroom,1.0,29.5,1
+48,Venonat,Bug,Insect,1.0,30.0,1
+49,Venomoth,Bug,Poison Moth,1.5,12.5,1
+50,Diglett,Ground,Mole,0.2,0.8,1
+51,Dugtrio,Ground,Mole,0.7,33.3,1
+52,Meowth,Normal,Scratch Cat,0.4,4.2,1
+53,Persian,Normal,Classy Cat,1.0,32.0,1
+54,Psyduck,Water,Duck,0.8,19.6,1
+55,Golduck,Water,Duck,1.7,76.6,1
+56,Mankey,Fighting,Pig Monkey,0.5,28.0,1
+57,Primeape,Fighting,Pig Monkey,1.0,32.0,1
+58,Growlithe,Fire,Puppy,0.7,19.0,1
+59,Arcanine,Fire,Legendary,1.9,155.0,1
+60,Poliwag,Water,Tadpole,0.6,12.4,1
+61,Poliwhirl,Water,Tadpole,1.0,20.0,1
+62,Poliwrath,Water,Tadpole,1.3,54.0,1
+63,Abra,Psychic,Psi,0.9,19.5,1
+64,Kadabra,Psychic,Psi,1.3,56.5,1
+65,Alakazam,Psychic,Psi,1.5,48.0,1
+66,Machop,Fighting,Superpower,0.8,19.5,1
+67,Machoke,Fighting,Superpower,1.5,70.5,1
+68,Machamp,Fighting,Superpower,1.6,130.0,1
+69,Bellsprout,Grass,Flower,0.7,4.0,1
+70,Weepinbell,Grass,Flycatcher,1.0,6.4,1
+71,Victreebel,Grass,Flycatcher,1.7,15.5,1
+72,Tentacool,Water,Jellyfish,0.9,45.5,1
+73,Tentacruel,Water,Jellyfish,1.6,55.0,1
+74,Geodude,Rock,Rock,0.4,20.0,1
+75,Graveler,Rock,Rock,1.0,105.0,1
+76,Golem,Rock,Megaton,1.4,300.0,1
+77,Ponyta,Fire,Fire Horse,1.0,30.0,1
+78,Rapidash,Fire,Fire Horse,1.7,95.0,1
+79,Slowpoke,Water,Dopey,1.2,36.0,1
+80,Slowbro,Water,Hermit Crab,1.6,78.5,1
+81,Magnemite,Electric,Magnet,0.3,6.0,1
+82,Magneton,Electric,Magnet,1.0,60.0,1
+83,Farfetch'd,Normal,Wild Duck,0.8,15.0,1
+84,Doduo,Normal,Twin Bird,1.4,39.2,1
+85,Dodrio,Normal,Triple Bird,1.8,85.2,1
+86,Seel,Water,Sea Lion,1.1,90.0,1
+87,Dewgong,Water,Sea Lion,1.7,120.0,1
+88,Grimer,Poison,Sludge,0.9,30.0,1
+89,Muk,Poison,Sludge,1.9,30.0,1
+90,Shellder,Water,Bivalve,0.3,4.0,1
+91,Cloyster,Water,Bivalve,1.5,132.5,1
+92,Gastly,Ghost,Gas,1.3,0.1,1
+93,Haunter,Ghost,Gas,1.6,0.1,1
+94,Gengar,Ghost,Shadow,1.5,40.5,1
+95,Onix,Rock,Rock Snake,8.8,210.0,1
+96,Drowzee,Psychic,Hypnosis,1.0,32.4,1
+97,Hypno,Psychic,Hypnosis,1.6,75.6,1
+98,Krabby,Water,River Crab,0.4,6.5,1
+99,Kingler,Water,Pincer,1.3,60.0,1
+100,Voltorb,Electric,Ball,0.5,10.4,1
+101,Electrode,Electric,Ball,1.2,66.6,1
+102,Exeggcute,Grass,Egg,0.4,2.5,1
+103,Exeggutor,Grass,Coconut,2.0,120.0,1
+104,Cubone,Ground,Lonely,0.4,6.5,1
+105,Marowak,Ground,Bone Keeper,1.0,45.0,1
+106,Hitmonlee,Fighting,Kicking,1.5,49.8,1
+107,Hitmonchan,Fighting,Punching,1.4,50.2,1
+108,Lickitung,Normal,Licking,1.2,65.5,1
+109,Koffing,Poison,Poison Gas,0.6,1.0,1
+110,Weezing,Poison,Poison Gas,1.2,9.5,1
+111,Rhyhorn,Ground,Spikes,1.0,115.0,1
+112,Rhydon,Ground,Drill,1.9,120.0,1
+113,Chansey,Normal,Egg,1.1,34.6,1
+114,Tangela,Grass,Vine,1.0,35.0,1
+115,Kangaskhan,Normal,Parent,2.2,80.0,1
+116,Horsea,Water,Dragon,0.4,8.0,1
+117,Seadra,Water,Dragon,1.2,25.0,1
+118,Goldeen,Water,Goldfish,0.6,15.0,1
+119,Seaking,Water,Goldfish,1.3,39.0,1
+120,Staryu,Water,Starshape,0.8,34.5,1
+121,Starmie,Water,Mysterious,1.1,80.0,1
+122,Mr Mime,Psychic,Barrier,1.3,54.5,1
+123,Scyther,Bug,Mantis,1.5,56.0,1
+124,Jynx,Ice,Humanshape,1.4,40.6,1
+125,Electabuzz,Electric,Electric,1.1,30.0,1
+126,Magmar,Fire,Spitfire,1.3,44.5,1
+127,Pinsir,Bug,Stagbeetle,1.5,55.0,1
+128,Tauros,Normal,Wild Bull,1.4,88.4,1
+129,Magikarp,Water,Fish,0.9,10.0,1
+130,Gyarados,Water,Atrocious,6.5,235.0,1
+131,Lapras,Water,Transport,2.5,220.0,1
+132,Ditto,Normal,Transform,0.3,4.0,1
+133,Eevee,Normal,Evolution,0.3,6.5,1
+134,Vaporeon,Water,Bubble Jet,1.0,29.0,1
+135,Jolteon,Electric,Lightning,0.8,24.5,1
+136,Flareon,Fire,Flame,0.9,25.0,1
+137,Porygon,Normal,Virtual,0.8,36.5,1
+138,Omanyte,Rock,Spiral,0.4,7.5,1
+139,Omastar,Rock,Spiral,1.0,35.0,1
+140,Kabuto,Rock,Shellfish,0.5,11.5,1
+141,Kabutops,Rock,Shellfish,1.3,40.5,1
+142,Aerodactyl,Rock,Fossil,1.8,59.0,1
+143,Snorlax,Normal,Sleeping,2.1,460.0,1
+144,Articuno,Ice,Freeze,1.7,55.4,1
+145,Zapdos,Electric,Electric,1.6,52.6,1
+146,Moltres,Fire,Flame,2.0,60.0,1
+147,Dratini,Dragon,Dragon,1.8,3.3,1
+148,Dragonair,Dragon,Dragon,4.0,16.5,1
+149,Dragonite,Dragon,Dragon,2.2,210.0,1
+150,Mewtwo,Psychic,Genetic,2.0,122.0,1
+151,Mew,Psychic,New Species,0.4,4.0,1
+152,Chikorita,Grass,Leaf,0.9,6.4,2
+153,Bayleef,Grass,Leaf,1.2,15.8,2
+154,Meganium,Grass,Herb,1.8,100.5,2
+155,Cyndaquil,Fire,Fire Mouse,0.5,7.9,2
+156,Quilava,Fire,Volcano,0.9,19.0,2
+157,Typhlosion,Fire,Volcano,1.7,79.5,2
+158,Totodile,Water,Big Jaw,0.6,9.5,2
+159,Croconaw,Water,Big Jaw,1.1,25.0,2
+160,Feraligatr,Water,Big Jaw,2.3,88.8,2
+161,Sentret,Normal,Scout,0.8,6.0,2
+162,Furret,Normal,Long Body,1.8,32.5,2
+163,Hoothoot,Normal,Owl,0.7,21.2,2
+164,Noctowl,Normal,Owl,1.6,40.8,2
+165,Ledyba,Bug,Five Star,1.0,10.8,2
+166,Ledian,Bug,Five Star,1.4,35.6,2
+167,Spinarak,Bug,String Spit,0.5,8.5,2
+168,Ariados,Bug,Long Leg,1.1,33.5,2
+169,Crobat,Poison,Bat,1.8,75.0,2
+170,Chinchou,Water,Angler,0.5,12.0,2
+171,Lanturn,Water,Light,1.2,22.5,2
+172,Pichu,Electric,Tiny Mouse,0.3,2.0,2
+173,Cleffa,Fairy,Star Shape,0.3,3.0,2
+174,Igglybuff,Normal,Balloon,0.3,1.0,2
+175,Togepi,Fairy,Spike Ball,0.3,1.5,2
+176,Togetic,Fairy,Happiness,0.6,3.2,2
+177,Natu,Psychic,Little Bird,0.2,2.0,2
+178,Xatu,Psychic,Mystic,1.5,15.0,2
+179,Mareep,Electric,Wool,0.6,7.8,2
+180,Flaaffy,Electric,Wool,0.8,13.3,2
+181,Ampharos,Electric,Light,1.4,61.5,2
+182,Bellossom,Grass,Flower,0.4,5.8,2
+183,Marill,Water,Aquamouse,0.4,8.5,2
+184,Azumarill,Water,Aquarabbit,0.8,28.5,2
+185,Sudowoodo,Rock,Imitation,1.2,38.0,2
+186,Politoed,Water,Frog,1.1,33.9,2
+187,Hoppip,Grass,Cottonweed,0.4,0.5,2
+188,Skiploom,Grass,Cottonweed,0.6,1.0,2
+189,Jumpluff,Grass,Cottonweed,0.8,3.0,2
+190,Aipom,Normal,Long Tail,0.8,11.5,2
+191,Sunkern,Grass,Seed,0.3,1.8,2
+192,Sunflora,Grass,Sun,0.8,8.5,2
+193,Yanma,Bug,Clear Wing,1.2,38.0,2
+194,Wooper,Water,Water Fish,0.4,8.5,2
+195,Quagsire,Water,Water Fish,1.4,75.0,2
+196,Espeon,Psychic,Sun,0.9,26.5,2
+197,Umbreon,Dark,Moonlight,1.0,27.0,2
+198,Murkrow,Dark,Darkness,0.5,2.1,2
+199,Slowking,Water,Royal,2.0,79.5,2
+200,Misdreavus,Ghost,Screech,0.7,1.0,2
+201,Unown,Psychic,Symbol,0.5,5.0,2
+202,Wobbuffet,Psychic,Patient,1.3,28.5,2
+203,Girafarig,Normal,Long Neck,1.5,41.5,2
+204,Pineco,Bug,Bagworm,0.6,7.2,2
+205,Forretress,Bug,Bagworm,1.2,125.8,2
+206,Dunsparce,Normal,Land Snake,1.5,14.0,2
+207,Gligar,Ground,Flyscorpion,1.1,64.8,2
+208,Steelix,Steel,Iron Snake,9.2,400.0,2
+209,Snubbull,Fairy,Fairy,0.6,7.8,2
+210,Granbull,Fairy,Fairy,1.4,48.7,2
+211,Qwilfish,Water,Balloon,0.5,3.9,2
+212,Scizor,Bug,Pincer,1.8,118.0,2
+213,Shuckle,Bug,Mold,0.6,20.5,2
+214,Heracross,Bug,Singlehorn,1.5,54.0,2
+215,Sneasel,Dark,Sharp Claw,0.9,28.0,2
+216,Teddiursa,Normal,Little Bear,0.6,8.8,2
+217,Ursaring,Normal,Hibernator,1.8,125.8,2
+218,Slugma,Fire,Lava,0.7,35.0,2
+219,Magcargo,Fire,Lava,0.8,55.0,2
+220,Swinub,Ice,Pig,0.4,6.5,2
+221,Piloswine,Ice,Swine,1.1,55.8,2
+222,Corsola,Water,Coral,0.6,5.0,2
+223,Remoraid,Water,Jet,0.6,12.0,2
+224,Octillery,Water,Jet,0.9,28.5,2
+225,Delibird,Ice,Delivery,0.9,16.0,2
+226,Mantine,Water,Kite,2.1,220.0,2
+227,Skarmory,Steel,Armor Bird,1.7,50.5,2
+228,Houndour,Dark,Dark,0.6,10.8,2
+229,Houndoom,Dark,Dark,1.4,35.0,2
+230,Kingdra,Water,Dragon,1.8,152.0,2
+231,Phanpy,Ground,Long Nose,0.5,33.5,2
+232,Donphan,Ground,Armor,1.1,120.0,2
+233,Porygon2,Normal,Virtual,0.6,32.5,2
+234,Stantler,Normal,Big Horn,1.4,71.2,2
+235,Smeargle,Normal,Painter,1.2,58.0,2
+236,Tyrogue,Fighting,Scuffle,0.7,21.0,2
+237,Hitmontop,Fighting,Handstand,1.4,48.0,2
+238,Smoochum,Ice,Kiss,0.4,6.0,2
+239,Elekid,Electric,Electric,0.6,23.5,2
+240,Magby,Fire,Live Coal,0.7,21.4,2
+241,Miltank,Normal,Milk Cow,1.2,75.5,2
+242,Blissey,Normal,Happiness,1.5,46.8,2
+243,Raikou,Electric,Thunder,1.9,178.0,2
+244,Entei,Fire,Volcano,2.1,198.0,2
+245,Suicune,Water,Aurora,2.0,187.0,2
+246,Larvitar,Rock,Rock Skin,0.6,72.0,2
+247,Pupitar,Rock,Hard Shell,1.2,152.0,2
+248,Tyranitar,Rock,Armor,2.0,202.0,2
+249,Lugia,Psychic,Diving,5.2,216.0,2
+250,Ho-Oh,Fire,Rainbow,3.8,199.0,2
+251,Celebi,Psychic,Time Travel,0.6,5.0,2
+252,Treecko,Grass,Wood Gecko,0.5,5.0,3
+253,Grovyle,Grass,Wood Gecko,0.9,21.6,3
+254,Sceptile,Grass,Forest,1.7,52.2,3
+255,Torchic,Fire,Chick,0.4,2.5,3
+256,Combusken,Fire,Young Fowl,0.9,19.5,3
+257,Blaziken,Fire,Blaze,1.9,52.0,3
+258,Mudkip,Water,Mud Fish,0.4,7.6,3
+259,Marshtomp,Water,Mud Fish,0.7,28.0,3
+260,Swampert,Water,Mud Fish,1.5,81.9,3
+261,Poochyena,Dark,Bite,0.5,13.6,3
+262,Mightyena,Dark,Bite,1.0,37.0,3
+263,Zigzagoon,Normal,Tiny Racoon,0.4,17.5,3
+264,Linoone,Normal,Rush,0.5,32.5,3
+265,Wurmple,Bug,Worm,0.3,3.6,3
+266,Silcoon,Bug,Cocoon,0.6,10.0,3
+267,Beautifly,Bug,Butterfly,1.0,28.4,3
+268,Cascoon,Bug,Cocoon,0.7,11.5,3
+269,Dustox,Bug,Poison Moth,1.2,31.6,3
+270,Lotad,Water,Water Weed,0.5,2.6,3
+271,Lombre,Water,Jolly,1.2,32.5,3
+272,Ludicolo,Water,Carefree,1.5,55.0,3
+273,Seedot,Grass,Acorn,0.5,4.0,3
+274,Nuzleaf,Grass,Wily,1.0,28.0,3
+275,Shiftry,Grass,Wickid,1.3,59.6,3
+276,Taillow,Normal,TinySwallow,0.3,2.3,3
+277,Swellow,Normal,Swallow,0.7,19.8,3
+278,Wingull,Water,Seagull,0.6,9.5,3
+279,Pelipper,Water,Water Bird,1.2,28.0,3
+280,Ralts,Psychic,Feeling,0.4,6.6,3
+281,Kirlia,Psychic,Emotion,0.8,20.2,3
+282,Gardevoir,Psychic,Embrace,1.6,48.4,3
+283,Surskit,Bug,Pond Skater,0.5,1.7,3
+284,Masquerain,Bug,Eyeball,0.8,3.6,3
+285,Shroomish,Grass,Mushroom,0.4,4.5,3
+286,Breloom,Grass,Mushroom,1.2,39.2,3
+287,Slakoth,Normal,Slacker,0.8,24.0,3
+288,Vigoroth,Normal,Wild Monkey,1.4,46.5,3
+289,Slaking,Normal,Lazy,2.0,130.5,3
+290,Nincada,Bug,Trainee,0.5,5.5,3
+291,Ninjask,Bug,Ninja,0.8,12.0,3
+292,Shedinja,Bug,Shed,0.8,1.2,3
+293,Whismur,Normal,Whisper,0.6,16.3,3
+294,Loudred,Normal,Big Voice,1.0,40.5,3
+295,Exploud,Normal,Loud Noise,1.5,84.0,3
+296,Makuhita,Fighting,Guts,1.0,86.4,3
+297,Hariyama,Fighting,Arm Thrust,2.3,253.8,3
+298,Azurill,Normal,Polka Dot,0.2,2.0,3
+299,Nosepass,Rock,Compass,1.0,97.0,3
+300,Skitty,Normal,Kitten,0.6,11.0,3
+301,Delcatty,Normal,Prim,1.1,32.6,3
+302,Sableye,Dark,Darkness,0.5,11.0,3
+303,Mawile,Steel,Deceiver,0.6,11.5,3
+304,Aron,Steel,Iron Armor,0.4,60.0,3
+305,Lairon,Steel,Iron Armor,0.9,120.0,3
+306,Aggron,Steel,Iron Armor,2.1,360.0,3
+307,Meditite,Fighting,Meditate,0.6,11.2,3
+308,Medicham,Fighting,Meditate,1.3,31.5,3
+309,Electrike,Electric,Lightning,0.6,15.2,3
+310,Manectric,Electric,Discharge,1.5,40.2,3
+311,Plusle,Electric,Cheering,0.4,4.2,3
+312,Minun,Electric,Cheering,0.4,4.2,3
+313,Volbeat,Bug,Firefly,0.7,17.7,3
+314,Illumise,Bug,Firefly,0.6,17.7,3
+315,Roselia,Grass,Thorn,0.3,2.0,3
+316,Gulpin,Poison,Stomach,0.4,10.3,3
+317,Swalot,Poison,Poison Bag,1.7,80.0,3
+318,Carvanha,Water,Savage,0.8,20.8,3
+319,Sharpedo,Water,Brutal,1.8,88.8,3
+320,Wailmer,Water,Ball Whale,2.0,130.0,3
+321,Wailord,Water,Float Whale,14.5,398.0,3
+322,Numel,Fire,Numb,0.7,24.0,3
+323,Camerupt,Fire,Eruption,1.9,220.0,3
+324,Torkoal,Fire,Coal,0.5,80.4,3
+325,Spoink,Psychic,Bounce,0.7,30.6,3
+326,Grumpig,Psychic,Manipulate,0.9,71.5,3
+327,Spinda,Normal,Spot Panda,1.1,5.0,3
+328,Trapinch,Ground,Ant Pit,0.7,15.0,3
+329,Vibrava,Ground,Vibration,1.1,15.3,3
+330,Flygon,Ground,Mystic,2.0,82.0,3
+331,Cacnea,Grass,Cactus,0.4,51.3,3
+332,Cacturne,Grass,Scarecrow,1.3,77.4,3
+333,Swablu,Normal,Cotton Bird,0.4,1.2,3
+334,Altaria,Dragon,Humming,1.1,20.6,3
+335,Zangoose,Normal,Cat Ferret,1.3,40.3,3
+336,Seviper,Poison,Fang Snake,2.7,52.5,3
+337,Lunatone,Rock,Meteorite,1.0,168.0,3
+338,Solrock,Rock,Meteorite,1.2,154.0,3
+339,Barboach,Water,Whiskers,0.4,1.9,3
+340,Whiscash,Water,Whiskers,0.9,23.6,3
+341,Corphish,Water,Ruffian,0.6,11.5,3
+342,Crawdaunt,Water,Rogue,1.1,32.8,3
+343,Baltoy,Ground,Clay Doll,0.5,21.5,3
+344,Claydol,Ground,Clay Doll,1.5,108.0,3
+345,Lileep,Rock,Sea Lily,1.0,23.8,3
+346,Cradily,Rock,Barnacle,1.5,60.4,3
+347,Anorith,Rock,Old Shrimp,0.7,12.5,3
+348,Armaldo,Rock,Plate,1.5,68.2,3
+349,Feebas,Water,Fish,0.6,7.4,3
+350,Milotic,Water,Tender,6.2,162.0,3
+351,Castform,Normal,Weather,0.3,0.8,3
+352,Kecleon,Normal,Color Swap,1.0,22.0,3
+353,Shuppet,Ghost,Puppet,0.6,2.3,3
+354,Banette,Ghost,Marionette,1.1,12.5,3
+355,Duskull,Ghost,Requiem,0.8,15.0,3
+356,Dusclops,Ghost,Beckon,1.6,30.6,3
+357,Tropius,Grass,Fruit,2.0,100.0,3
+358,Chimecho,Psychic,Wind Chime,0.6,1.0,3
+359,Absol,Dark,Disaster,1.2,47.0,3
+360,Wynaut,Psychic,Bright,0.6,14.0,3
+361,Snorunt,Ice,Snow Hat,0.7,16.8,3
+362,Glalie,Ice,Face,1.5,256.5,3
+363,Spheal,Ice,Clap,0.8,39.5,3
+364,Sealeo,Ice,Ball Roll,1.1,87.6,3
+365,Walrein,Ice,Ice Break,1.4,150.6,3
+366,Clamperl,Water,Bivalve,0.4,52.5,3
+367,Huntail,Water,Deep Sea,1.7,27.0,3
+368,Gorebyss,Water,South Sea,1.8,22.6,3
+369,Relicanth,Water,Longevity,1.0,23.4,3
+370,Luvdisc,Water,Rendezvous,0.6,8.7,3
+371,Bagon,Dragon,Rock Head,0.6,42.1,3
+372,Shelgon,Dragon,Endurance,1.1,110.5,3
+373,Salamence,Dragon,Dragon,1.5,102.6,3
+374,Beldum,Steel,Iron Ball,0.6,95.2,3
+375,Metang,Steel,Iron Claw,1.2,202.5,3
+376,Metagross,Steel,Iron Leg,1.6,550.0,3
+377,Regirock,Rock,Rock Peak,1.7,230.0,3
+378,Regice,Ice,Iceberg,1.8,175.0,3
+379,Registeel,Steel,Iron,1.9,205.0,3
+380,Latias,Dragon,Eon,1.4,40.0,3
+381,Latios,Dragon,Eon,2.0,60.0,3
+382,Kyogre,Water,Sea Basin,4.5,352.0,3
+383,Groudon,Ground,Continent,3.5,950.0,3
+384,Rayquaza,Dragon,Sky High,7.0,206.5,3
+385,Jirachi,Steel,Wish,0.3,1.1,3
+386,Deoxys,Psychic,DNA,1.7,60.8,3
+387,Turtwig,Grass,Tiny Leaf,0.4,10.2,4
+388,Grotle,Grass,Grove,1.1,97.0,4
+389,Torterra,Grass,Continent,2.2,310.0,4
+390,Chimchar,Fire,Chimp,0.5,6.2,4
+391,Monferno,Fire,Playful,0.9,22.0,4
+392,Infernape,Fire,Flame,1.2,55.0,4
+393,Piplup,Water,Penguin,0.4,5.2,4
+394,Prinplup,Water,Penguin,0.8,23.0,4
+395,Empoleon,Water,Emperor,1.7,84.5,4
+396,Starly,Normal,Starling,0.3,2.0,4
+397,Staravia,Normal,Starling,0.6,15.5,4
+398,Staraptor,Normal,Predator,1.2,24.9,4
+399,Bidoof,Normal,Plump Mouse,0.5,20.0,4
+400,Bibarel,Normal,Beaver,1.0,31.5,4
+401,Kricketot,Bug,Cricket,0.3,2.2,4
+402,Kricketune,Bug,Cricket,1.0,25.5,4
+403,Shinx,Electric,Flash,0.5,9.5,4
+404,Luxio,Electric,Spark,0.9,30.5,4
+405,Luxray,Electric,Gleam Eyes,1.4,42.0,4
+406,Budew,Grass,Bud,0.2,1.2,4
+407,Roserade,Grass,Bouquet,0.9,14.5,4
+408,Cranidos,Rock,Head Butt,0.9,31.5,4
+409,Rampardos,Rock,Head Butt,1.6,102.5,4
+410,Shieldon,Rock,Shield,0.5,57.0,4
+411,Bastiodon,Rock,Shield,1.3,149.5,4
+412,Burmy,Bug,Bagworm,0.2,3.4,4
+413,Wormadam,Bug,Bagworm,0.5,6.5,4
+414,Mothim,Bug,Moth,0.9,23.3,4
+415,Combee,Bug,Tiny Bee,0.3,5.5,4
+416,Vespiquen,Bug,Beehive,1.2,38.5,4
+417,Pachirisu,Electric,EleSquirrel,0.4,3.9,4
+418,Buizel,Water,Sea Weasel,0.7,29.5,4
+419,Floatzel,Water,Sea Weasel,1.1,33.5,4
+420,Cherubi,Grass,Cherry,0.4,3.3,4
+421,Cherrim,Grass,Blossom,0.5,9.3,4
+422,Shellos,Water,Sea Slug,0.3,6.3,4
+423,Gastrodon,Water,Sea Slug,0.9,29.9,4
+424,Ambipom,Normal,Long Tail,1.2,20.3,4
+425,Drifloon,Ghost,Balloon,0.4,1.2,4
+426,Drifblim,Ghost,Blimp,1.2,15.0,4
+427,Buneary,Normal,Rabbit,0.4,5.5,4
+428,Lopunny,Normal,Rabbit,1.2,33.3,4
+429,Mismagius,Ghost,Magical,0.9,4.4,4
+430,Honchkrow,Dark,Big Boss,0.9,27.3,4
+431,Glameow,Normal,Catty,0.5,3.9,4
+432,Purugly,Normal,Tiger Cat,1.0,43.8,4
+433,Chingling,Psychic,Bell,0.2,0.6,4
+434,Stunky,Poison,Skunk,0.4,19.2,4
+435,Skuntank,Poison,Skunk,1.0,38.0,4
+436,Bronzor,Steel,Bronze,0.5,60.5,4
+437,Bronzong,Steel,Bronze Bell,1.3,187.0,4
+438,Bonsly,Rock,Bonsai,0.5,15.0,4
+439,Mime Jr,Psychic,Mime,0.6,13.0,4
+440,Happiny,Normal,Playhouse,0.6,24.4,4
+441,Chatot,Normal,Music Note,0.5,1.9,4
+442,Spiritomb,Ghost,Forbidden,1.0,108.0,4
+443,Gible,Dragon,Land Shark,0.7,20.5,4
+444,Gabite,Dragon,Cave,1.4,56.0,4
+445,Garchomp,Dragon,Mach,1.9,95.0,4
+446,Munchlax,Normal,Big Eater,0.6,105.0,4
+447,Riolu,Fighting,Emanation,0.7,20.2,4
+448,Lucario,Fighting,Aura,1.2,54.0,4
+449,Hippopotas,Ground,Hippo,0.8,49.5,4
+450,Hippowdon,Ground,Heavyweight,2.0,300.0,4
+451,Skorupi,Poison,Scorpion,0.8,12.0,4
+452,Drapion,Poison,Ogre Scorp,1.3,61.5,4
+453,Croagunk,Poison,Toxic Mouth,0.7,23.0,4
+454,Toxicroak,Poison,Toxic Mouth,1.3,44.4,4
+455,Carnivine,Grass,Bug Catcher,1.4,27.0,4
+456,Finneon,Water,Wing Fish,0.4,7.0,4
+457,Lumineon,Water,Neon,1.2,24.0,4
+458,Mantyke,Water,Kite,1.0,65.0,4
+459,Snover,Grass,Frosted Tree,1.0,50.5,4
+460,Abomasnow,Grass,Frosted Tree,2.2,135.5,4
+461,Weavile,Dark,Sharp Claw,1.1,34.0,4
+462,Magnezone,Electric,Magnet Area,1.2,180.0,4
+463,Lickilicky,Normal,Licking,1.7,140.0,4
+464,Rhyperior,Ground,Drill,2.4,282.8,4
+465,Tangrowth,Grass,Vine,2.0,128.6,4
+466,Electivire,Electric,Thunderbolt,1.8,138.6,4
+467,Magmortar,Fire,Blast,1.6,68.0,4
+468,Togekiss,Fairy,Jubilee,1.5,38.0,4
+469,Yanmega,Bug,Ogre Darner,1.9,51.5,4
+470,Leafeon,Grass,Verdant,1.0,25.5,4
+471,Glaceon,Ice,Fresh Snow,0.8,25.9,4
+472,Gliscor,Ground,Fang Scorp,2.0,42.5,4
+473,Mamoswine,Ice,Twin Tusk,2.5,291.0,4
+474,Porygon-Z,Normal,Virtual,0.9,34.0,4
+475,Gallade,Psychic,Blade,1.6,52.0,4
+476,Probopass,Rock,Compass,1.4,340.0,4
+477,Dusknoir,Ghost,Gripper,2.2,106.6,4
+478,Froslass,Ice,Snow Land,1.3,26.6,4
+479,Rotom,Electric,Plasma,0.3,0.3,4
+480,Uxie,Psychic,Knowledge,0.3,0.3,4
+481,Mesprit,Psychic,Emotion,0.3,0.3,4
+482,Azelf,Psychic,Willpower,0.3,0.3,4
+483,Dialga,Steel,Temporal,5.4,683.0,4
+484,Palkia,Water,Spatial,4.2,336.0,4
+485,Heatran,Fire,Lava Dome,1.7,430.0,4
+486,Regigigas,Normal,Colossal,3.7,420.0,4
+487,Giratina,Ghost,Renegade,4.5,750.0,4
+488,Cresselia,Psychic,Lunar,1.5,85.6,4
+489,Phione,Water,Sea Drifter,0.4,3.1,4
+490,Manaphy,Water,Seafaring,0.3,1.4,4
+491,Darkrai,Dark,Pitch-Black,1.5,50.5,4
+492,Shaymin,Grass,Gratitude,0.2,2.1,4
+493,Arceus,Normal,Alpha,3.2,320.0,4
+494,Victini,Psychic,Victory,0.4,4.0,5
+495,Snivy,Grass,Grass Snake,0.6,8.1,5
+496,Servine,Grass,Grass Snake,0.8,16.0,5
+497,Serperior,Grass,Regal,3.3,63.0,5
+498,Tepig,Fire,Fire Pig,0.5,9.9,5
+499,Pignite,Fire,Fire Pig,1.0,55.5,5
+500,Emboar,Fire,Mega Fire Pig,1.6,150.0,5
+501,Oshawott,Water,Sea Otter,0.5,5.9,5
+502,Dewott,Water,Discipline,0.8,24.5,5
+503,Samurott,Water,Formidable,1.5,94.6,5
+504,Patrat,Normal,Scout,0.5,11.6,5
+505,Watchog,Normal,Lookout,1.1,27.0,5
+506,Lillipup,Normal,Puppy,0.4,4.1,5
+507,Herdier,Normal,Loyal Dog,0.9,14.7,5
+508,Stoutland,Normal,Big-Hearted,1.2,61.0,5
+509,Purrloin,Dark,Devious,0.4,10.1,5
+510,Liepard,Dark,Cruel,1.1,37.5,5
+511,Pansage,Grass,Grass Monkey,0.6,10.5,5
+512,Simisage,Grass,Thorn Monkey,1.1,30.5,5
+513,Pansear,Fire,High Temp,0.6,11.0,5
+514,Simisear,Fire,Ember,1.0,28.0,5
+515,Panpour,Water,Spray,0.6,13.5,5
+516,Simipour,Water,Geyser,1.0,29.0,5
+517,Munna,Psychic,Dream Eater,0.6,23.3,5
+518,Musharna,Psychic,Drowsing,1.1,60.5,5
+519,Pidove,Normal,Tiny Pigeon,0.3,2.1,5
+520,Tranquill,Normal,Wild Pigeon,0.6,15.0,5
+521,Unfezant,Normal,Proud,1.2,29.0,5
+522,Blitzle,Electric,Electrified,0.8,29.8,5
+523,Zebstrika,Electric,Thunderbolt,1.6,79.5,5
+524,Roggenrola,Rock,Mantle,0.4,18.0,5
+525,Boldore,Rock,Ore,0.9,102.0,5
+526,Gigalith,Rock,Compressed,1.7,260.0,5
+527,Woobat,Psychic,Bat,0.4,2.1,5
+528,Swoobat,Psychic,Courting,0.9,10.5,5
+529,Drilbur,Ground,Mole,0.3,8.5,5
+530,Excadrill,Ground,Subterrene,0.7,40.4,5
+531,Audino,Normal,Hearing,1.1,31.0,5
+532,Timburr,Fighting,Muscular,0.6,12.5,5
+533,Gurdurr,Fighting,Muscular,1.2,40.0,5
+534,Conkeldurr,Fighting,Muscular,1.4,87.0,5
+535,Tympole,Water,Tadpole,0.5,4.5,5
+536,Palpitoad,Water,Vibration,0.8,17.0,5
+537,Seismitoad,Water,Vibration,1.5,62.0,5
+538,Throh,Fighting,Judo,1.3,55.5,5
+539,Sawk,Fighting,Karate,1.4,51.0,5
+540,Sewaddle,Bug,Sewing,0.3,2.5,5
+541,Swadloon,Bug,Leaf-Wrapped,0.5,7.3,5
+542,Leavanny,Bug,Nurturing,1.2,20.5,5
+543,Venipede,Bug,Centipede,0.4,5.3,5
+544,Whirlipede,Bug,Curlipede,1.2,58.5,5
+545,Scolipede,Bug,Megapede,2.5,200.5,5
+546,Cottonee,Grass,Cotton Puff,0.3,0.6,5
+547,Whimsicott,Grass,Windveiled,0.7,6.6,5
+548,Petilil,Grass,Bulb,0.5,6.6,5
+549,Lilligant,Grass,Flowering,1.1,16.3,5
+550,Basculin,Water,Hostile,1.0,18.0,5
+551,Sandile,Ground,Desert Croc,0.7,15.2,5
+552,Krokorok,Ground,Desert Croc,1.0,33.4,5
+553,Krookodile,Ground,Intimidation,1.5,96.3,5
+554,Darumaka,Fire,Zen Charm,0.6,37.5,5
+555,Darmanitan,Fire,Blazing,1.3,92.9,5
+556,Maractus,Grass,Cactus,1.0,28.0,5
+557,Dwebble,Bug,Rock Inn,0.3,14.5,5
+558,Crustle,Bug,Stone Home,1.4,200.0,5
+559,Scraggy,Dark,Shedding,0.6,11.8,5
+560,Scrafty,Dark,Hoodlum,1.1,30.0,5
+561,Sigilyph,Psychic,Avianoid,1.4,14.0,5
+562,Yamask,Ghost,Spirit,0.5,1.5,5
+563,Cofagrigus,Ghost,Coffin,1.7,76.5,5
+564,Tirtouga,Water,Prototurtle,0.7,16.5,5
+565,Carracosta,Water,Prototurtle,1.2,81.0,5
+566,Archen,Rock,First Bird,0.5,9.5,5
+567,Archeops,Rock,First Bird,1.4,32.0,5
+568,Trubbish,Poison,Trash Bag,0.6,31.0,5
+569,Garbodor,Poison,Trash Heap,1.9,107.3,5
+570,Zorua,Dark,Tricky Fox,0.7,12.5,5
+571,Zoroark,Dark,Illusion Fox,1.6,81.1,5
+572,Minccino,Normal,Chinchilla,0.4,5.8,5
+573,Cinccino,Normal,Scarf,0.5,7.5,5
+574,Gothita,Psychic,Fixation,0.4,5.8,5
+575,Gothorita,Psychic,Manipulate,0.7,18.0,5
+576,Gothitelle,Psychic,Astral Body,1.5,44.0,5
+577,Solosis,Psychic,Cell,0.3,1.0,5
+578,Duosion,Psychic,Mitosis,0.6,8.0,5
+579,Reuniclus,Psychic,Multiplying,1.0,20.1,5
+580,Ducklett,Water,Water Bird,0.5,5.5,5
+581,Swanna,Water,White Bird,1.3,24.2,5
+582,Vanillite,Ice,Fresh Snow,0.4,5.7,5
+583,Vanillish,Ice,Icy Snow,1.1,41.0,5
+584,Vanilluxe,Ice,Snowstorm,1.3,57.5,5
+585,Deerling,Normal,Season,0.6,19.5,5
+586,Sawsbuck,Normal,Season,1.9,92.5,5
+587,Emolga,Electric,Sky Squirrel,0.4,5.0,5
+588,Karrablast,Bug,Clamping,0.5,5.9,5
+589,Escavalier,Bug,Cavalry,1.0,33.0,5
+590,Foongus,Grass,Mushroom,0.2,1.0,5
+591,Amoonguss,Grass,Mushroom,0.6,10.5,5
+592,Frillish,Water,Floating,1.2,33.0,5
+593,Jellicent,Water,Floating,2.2,135.0,5
+594,Alomomola,Water,Caring,1.2,31.6,5
+595,Joltik,Bug,Attaching,0.1,0.6,5
+596,Galvantula,Bug,EleSpider,0.8,14.3,5
+597,Ferroseed,Grass,Thorn Seed,0.6,18.8,5
+598,Ferrothorn,Grass,Thorn Pod,1.0,110.0,5
+599,Klink,Steel,Gear,0.3,21.0,5
+600,Klang,Steel,Gear,0.6,51.0,5
+601,Klinklang,Steel,Gear,0.6,81.0,5
+602,Tynamo,Electric,EleFish,0.2,0.3,5
+603,Eelektrik,Electric,EleFish,1.2,22.0,5
+604,Eelektross,Electric,EleFish,2.1,80.5,5
+605,Elgyem,Psychic,Cerebral,0.5,9.0,5
+606,Beheeyem,Psychic,Cerebral,1.0,34.5,5
+607,Litwick,Ghost,Candle,0.3,3.1,5
+608,Lampent,Ghost,Lamp,0.6,13.0,5
+609,Chandelure,Ghost,Luring,1.0,34.3,5
+610,Axew,Dragon,Tusk,0.6,18.0,5
+611,Fraxure,Dragon,Axe Jaw,1.0,36.0,5
+612,Haxorus,Dragon,Axe Jaw,1.8,105.5,5
+613,Cubchoo,Ice,Chill,0.5,8.5,5
+614,Beartic,Ice,Freezing,2.6,260.0,5
+615,Cryogonal,Ice,Crystallizing,1.1,148.0,5
+616,Shelmet,Bug,Snail,0.4,7.7,5
+617,Accelgor,Bug,Shell Out,0.8,25.3,5
+618,Stunfisk,Ground,Trap,0.7,11.0,5
+619,Mienfoo,Fighting,Martial Arts,0.9,20.0,5
+620,Mienshao,Fighting,Martial Arts,1.4,35.5,5
+621,Druddigon,Dragon,Cave,1.6,139.0,5
+622,Golett,Ground,Automaton,1.0,92.0,5
+623,Golurk,Ground,Automaton,2.8,330.0,5
+624,Pawniard,Dark,Sharp Blade,0.5,10.2,5
+625,Bisharp,Dark,Sword Blade,1.6,70.0,5
+626,Bouffalant,Normal,Bash Buffalo,1.6,94.6,5
+627,Rufflet,Normal,Eaglet,0.5,10.5,5
+628,Braviary,Normal,Valiant,1.5,41.0,5
+629,Vullaby,Dark,Diapered,0.5,9.0,5
+630,Mandibuzz,Dark,Bone Vulture,1.2,39.5,5
+631,Heatmor,Fire,Anteater,1.4,58.0,5
+632,Durant,Bug,Iron Ant,0.3,33.0,5
+633,Deino,Dark,Irate,0.8,17.3,5
+634,Zweilous,Dark,Hostile,1.4,50.0,5
+635,Hydreigon,Dark,Brutal,1.8,160.0,5
+636,Larvesta,Bug,Torch,1.1,28.8,5
+637,Volcarona,Bug,Sun,1.6,46.0,5
+638,Cobalion,Steel,Iron Will,2.1,250.0,5
+639,Terrakion,Rock,Cavern,1.9,260.0,5
+640,Virizion,Grass,Grassland,2.0,200.0,5
+641,Tornadus,Flying,Cyclone,1.5,63.0,5
+642,Thundurus,Electric,Bolt Strike,1.5,61.0,5
+643,Reshiram,Dragon,Vast White,3.2,330.0,5
+644,Zekrom,Dragon,Deep Black,2.9,345.0,5
+645,Landorus,Ground,Abundance,1.5,68.0,5
+646,Kyurem,Dragon,Boundary,3.0,325.0,5
+647,Keldeo,Water,Colt,1.4,48.5,5
+648,Meloetta,Normal,Melody,0.6,6.5,5
+649,Genesect,Bug,Paleozoic,1.5,82.5,5
+650,Chespin,Grass,Spiky Nut,0.4,9.0,6
+651,Quilladin,Grass,Spiny Armor,0.7,29.0,6
+652,Chesnaught,Grass,Spiny Armor,1.6,90.0,6
+653,Fennekin,Fire,Fox,0.4,9.4,6
+654,Braixen,Fire,Fox,1.0,14.5,6
+655,Delphox,Fire,Fox,1.5,39.0,6
+656,Froakie,Water,Bubble Frog,0.3,7.0,6
+657,Frogadier,Water,Bubble Frog,0.6,10.9,6
+658,Greninja,Water,Ninja,1.5,40.0,6
+659,Bunnelby,Normal,Digging,0.4,5.0,6
+660,Diggersby,Normal,Digging,1.0,42.4,6
+661,Fletchling,Normal,Tiny Robin,0.3,1.7,6
+662,Fletchinder,Fire,Ember,0.7,16.0,6
+663,Talonflame,Fire,Scorching,1.2,24.5,6
+664,Scatterbug,Bug,Scatterdust,0.3,2.5,6
+665,Spewpa,Bug,Scatterdust,0.3,8.4,6
+666,Vivillon,Bug,Scale,1.2,17.0,6
+667,Litleo,Fire,Lion Cub,0.6,13.5,6
+668,Pyroar,Fire,Royal,1.5,81.5,6
+669,Flabébé,Fairy,Single Bloom,0.1,0.1,6
+670,Floette,Fairy,Fairy,0.2,0.9,6
+671,Florges,Fairy,Garden,1.1,10.0,6
+672,Skiddo,Grass,Mount,0.9,31.0,6
+673,Gogoat,Grass,Mount,1.7,91.0,6
+674,Pancham,Fighting,Playful,0.6,8.0,6
+675,Pangoro,Fighting,Daunting,2.1,136.0,6
+676,Furfrou,Normal,Poodle,1.2,28.0,6
+677,Espurr,Psychic,Restraint,0.3,3.5,6
+678,Meowstic,Psychic,Constraint,0.6,8.5,6
+679,Honedge,Steel,Sword,0.8,2.0,6
+680,Doublade,Steel,Sword,0.8,4.5,6
+681,Aegislash,Steel,Royal Sword,1.7,53.0,6
+682,Spritzee,Fairy,Perfume,0.2,0.5,6
+683,Aromatisse,Fairy,Fragrance,0.8,15.5,6
+684,Swirlix,Fairy,Cotton Candy,0.4,3.5,6
+685,Slurpuff,Fairy,Meringue,0.8,5.0,6
+686,Inkay,Dark,Revolving,0.4,3.5,6
+687,Malamar,Dark,Overturning,1.5,47.0,6
+688,Binacle,Rock,Two-Handed,0.5,31.0,6
+689,Barbaracle,Rock,Collective,1.3,96.0,6
+690,Skrelp,Poison,Mock Kelp,0.5,7.3,6
+691,Dragalge,Poison,Mock Kelp,1.8,81.5,6
+692,Clauncher,Water,Water Gun,0.5,8.3,6
+693,Clawitzer,Water,Howitzer,1.3,35.3,6
+694,Helioptile,Electric,Generator,0.5,6.0,6
+695,Heliolisk,Electric,Generator,1.0,21.0,6
+696,Tyrunt,Rock,Royal Heir,0.8,26.0,6
+697,Tyrantrum,Rock,Despot,2.5,270.0,6
+698,Amaura,Rock,Tundra,1.3,25.2,6
+699,Aurorus,Rock,Tundra,2.7,225.0,6
+700,Sylveon,Fairy,Intertwining,1.0,23.5,6
+701,Hawlucha,Fighting,Wrestling,0.8,21.5,6
+702,Dedenne,Electric,Antenna,0.2,2.2,6
+703,Carbink,Rock,Jewel,0.3,5.7,6
+704,Goomy,Dragon,Soft Tissue,0.3,2.8,6
+705,Sliggoo,Dragon,Soft Tissue,0.8,17.5,6
+706,Goodra,Dragon,Dragon,2.0,150.5,6
+707,Klefki,Steel,Key Ring,0.2,3.0,6
+708,Phantump,Ghost,Stump,0.4,7.0,6
+709,Trevenant,Ghost,Elder Tree,1.5,71.0,6
+710,Pumpkaboo,Ghost,Pumpkin,0.8,15.0,6
+711,Gourgeist,Ghost,Pumpkin,1.7,39.0,6
+712,Bergmite,Ice,Ice Chunk,1.0,99.5,6
+713,Avalugg,Ice,Iceberg,2.0,505.0,6
+714,Noibat,Flying,Sound Wave,0.5,8.0,6
+715,Noivern,Flying,Sound Wave,1.5,85.0,6
+716,Xerneas,Fairy,Life,3.0,215.0,6
+717,Yveltal,Dark,Destruction,5.8,203.0,6
+718,Zygarde,Dragon,Order,5.0,284.6,6
+719,Diancie,Rock,Jewel,0.7,8.8,6
+720,Hoopa,Psychic,Mischief,0.5,9.0,6
+721,Volcanion,Fire,Steam,1.7,195.0,6
+722,Rowlet,Grass,Grass Quill,0.3,1.5,7
+723,Dartrix,Grass,Blade Quill,0.7,16.0,7
+724,Decidueye,Grass,Arrow Quill,1.6,36.6,7
+725,Litten,Fire,Fire Cat,0.4,4.3,7
+726,Torracat,Fire,Fire Cat,0.7,25.0,7
+727,Incineroar,Fire,Heel,1.8,83.0,7
+728,Popplio,Water,Sea Lion,0.4,7.5,7
+729,Brionne,Water,Pop Star,0.6,17.5,7
+730,Primarina,Water,Soloist,1.8,44.0,7
+731,Pikipek,Normal,Woodpecker,0.3,1.2,7
+732,Trumbeak,Normal,Bugle Beak,0.6,14.8,7
+733,Toucannon,Normal,Cannon,1.1,26.0,7
+734,Yungoos,Normal,Loitering,0.4,6.0,7
+735,Gumshoos,Normal,Stakeout,0.7,14.2,7
+736,Grubbin,Bug,Larva,0.4,4.4,7
+737,Charjabug,Bug,Battery,0.5,10.5,7
+738,Vikavolt,Bug,Stag Beetle,1.5,45.0,7
+739,Crabrawler,Fighting,Boxing,0.6,7.0,7
+740,Crabominable,Fighting,Woolly Crab,1.7,180.0,7
+741,Oricorio,Fire,Dancing,0.6,3.4,7
+742,Cutiefly,Bug,Bee Fly,0.1,0.2,7
+743,Ribombee,Bug,Bee Fly,0.2,0.5,7
+744,Rockruff,Rock,Puppy,0.5,9.2,7
+745,Lycanroc,Rock,Wolf,0.8,25.0,7
+746,Wishiwashi,Water,Small Fry,0.2,0.3,7
+747,Mareanie,Poison,Brutal Star,0.4,8.0,7
+748,Toxapex,Poison,Brutal Star,0.7,14.5,7
+749,Mudbray,Ground,Donkey,1.0,110.0,7
+750,Mudsdale,Ground,Draft Horse,2.5,920.0,7
+751,Dewpider,Water,Water Bubble,0.3,4.0,7
+752,Araquanid,Water,Water Bubble,1.8,82.0,7
+753,Fomantis,Grass,Sickle Grass,0.3,1.5,7
+754,Lurantis,Grass,Bloom Sickle,0.9,18.5,7
+755,Morelull,Grass,Illuminating,0.2,1.5,7
+756,Shiinotic,Grass,Illuminating,1.0,11.5,7
+757,Salandit,Poison,Toxic Lizard,0.6,4.8,7
+758,Salazzle,Poison,Toxic Lizard,1.2,22.2,7
+759,Stufful,Normal,Flailing,0.5,6.8,7
+760,Bewear,Normal,Strong Arm,2.1,135.0,7
+761,Bounsweet,Grass,Fruit,0.3,3.2,7
+762,Steenee,Grass,Fruit,0.7,8.2,7
+763,Tsareena,Grass,Fruit,1.2,21.4,7
+764,Comfey,Fairy,Posy Picker,0.1,0.3,7
+765,Oranguru,Normal,Sage,1.5,76.0,7
+766,Passimian,Fighting,Teamwork,2.0,82.8,7
+767,Wimpod,Bug,Turn Tail,0.5,12.0,7
+768,Golisopod,Bug,Hard Scale,2.0,108.0,7
+769,Sandygast,Ghost,Sand Heap,0.5,70.0,7
+770,Palossand,Ghost,Sand Castle,1.3,250.0,7
+771,Pyukumuku,Water,Sea Cucumber,0.3,1.2,7
+772,Type: Null,Normal,Synthetic,1.9,120.5,7
+773,Silvally,Normal,Synthetic,2.3,100.5,7
+774,Minior,Rock,Meteor,0.3,40.0,7
+775,Komala,Normal,Drowsing,0.4,19.9,7
+776,Turtonator,Fire,Blast Turtle,2.0,212.0,7
+777,Togedemaru,Electric,Roly-Poly,0.3,3.3,7
+778,Mimikyu,Ghost,Disguise,0.2,0.7,7
+779,Bruxish,Water,Gnash Teeth,0.9,19.0,7
+780,Drampa,Normal,Placid,3.0,185.0,7
+781,Dhelmise,Ghost,Sea Creeper,3.9,210.0,7
+782,Jangmo-o,Dragon,Scaly,0.6,29.7,7
+783,Hakamo-o,Dragon,Scaly,1.2,47.0,7
+784,Kommo-o,Dragon,Scaly,1.6,78.2,7
+785,Tapu Koko,Electric,Land Spirit,1.8,20.5,7
+786,Tapu Lele,Psychic,Land Spirit,1.2,18.6,7
+787,Tapu Bulu,Grass,Land Spirit,1.9,45.5,7
+788,Tapu Fini,Water,Land Spirit,1.3,21.2,7
+789,Cosmog,Psychic,Nebula,0.2,0.1,7
+790,Cosmoem,Psychic,Protostar,0.1,999.9,7
+791,Solgaleo,Psychic,Sunne,3.4,230.0,7
+792,Lunala,Psychic,Moone,4.0,120.0,7
+793,Nihilego,Rock,Parasite,1.2,55.5,7
+794,Buzzwole,Bug,Swollen,2.4,333.6,7
+795,Pheromosa,Bug,Lissome,1.8,25.0,7
+796,Xurkitree,Electric,Glowing,3.8,100.0,7
+797,Celesteela,Steel,Launch,9.2,999.9,7
+798,Kartana,Grass,Drawn Sword,0.3,0.1,7
+799,Guzzlord,Dark,Junkivore,5.5,888.0,7
+800,Necrozma,Psychic,Prism,2.4,230.0,7
+801,Magearna,Steel,Artificial,1.0,80.5,7
+802,Térciomon,Deus,Professor,1.76,68.6,8
